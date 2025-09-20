@@ -12,7 +12,7 @@ I am a second year PhD student at the University of Warwick, where I am fortunat
 
 I have a broad interest in theoretical computer science, especially in computational complexity. Currently I am focusing on metacomplexity and its connection to pseudorandomness, circuit lower bounds, etc.
 
-Email Address: [First Name] DOT [Last Name] AT warwick DOT ac DOT uk
+Email: [First Name] DOT [Last Name] AT warwick DOT ac DOT uk
 
 ---
 
@@ -20,6 +20,8 @@ Email Address: [First Name] DOT [Last Name] AT warwick DOT ac DOT uk
 
 (In theoretical computer science, authors are usually listed by alphabetical order.)
 
++ **Failure of Symmetry of Information for Randomized Computations**\\
+**Jinqiao Hu**, Yahel Manor, [Igor C. Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/)
 
 + **Synergies Between Complexity Theory and Nondeterministic Kolmogorov Complexity**\\
 Halley Goldberg, **Jinqiao Hu**, [Zhenjian Lu](https://luzhenjian.github.io/), Jinyi Lyu, [Igor C. Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/)

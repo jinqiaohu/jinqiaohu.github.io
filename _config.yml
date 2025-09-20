@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jinqiao Hu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Computer Science"
+  bio              : "PhD Student in Computer Science"
   location         : #"Earth"
   employer         : "University of Warwick"
   uri              : # URL
@@ -304,6 +304,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-titles-from-headings
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -350,3 +351,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false

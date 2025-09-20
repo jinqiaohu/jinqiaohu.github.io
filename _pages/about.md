@@ -16,7 +16,7 @@ I am a second year PhD student at the University of Warwick, where I am fortunat
 
 I have a broad interest in theoretical computer science, especially in computational complexity. Currently I am focusing on metacomplexity and its connection to pseudorandomness, circuit lower bounds, etc.
 
-Email: [First Name] DOT [Last Name] AT warwick DOT ac DOT uk
+Email: *[First Name] DOT [Last Name] AT warwick DOT ac DOT uk*
 
 ---
 

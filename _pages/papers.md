@@ -15,11 +15,11 @@ author_profile: true
   Halley Goldberg, **Jinqiao Hu**, [Zhenjian Lu](https://luzhenjian.github.io/), Jinyi Lyu, [Igor C. Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/)
 
 
-+ **Hardness of Nondeterministic Kolmogorov Complexity**\\
++ **Hardness of Nondeterministic Kolmogorov Complexity** [[ECCC](https://eccc.weizmann.ac.il/report/2025/203/)]\\
   **Jinqiao Hu**, [Zhenjian Lu](https://luzhenjian.github.io/), [Igor C. Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/)
 
 
-+ **Equavalence Between Coding and Complexity Lower Bounds**\\
++ **Equavalence Between Coding and Complexity Lower Bounds** [[ECCC](https://eccc.weizmann.ac.il/report/2025/211/)]\\
   **Jinqiao Hu**, [Zhenjian Lu](https://luzhenjian.github.io/), [Igor C. Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/)
 
 ---

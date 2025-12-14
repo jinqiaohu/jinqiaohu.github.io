@@ -11,7 +11,7 @@ author_profile: true
 + **Failure of Symmetry of Information for Randomized Computations**\\
   **Jinqiao Hu**, Yahel Manor, [Igor C. Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/)
 
-+ **Synergies Between Complexity Theory and Nondeterministic Kolmogorov Complexity**\\
++ **Synergies Between Complexity Theory and Nondeterministic Kolmogorov Complexity** [[ECCC](https://eccc.weizmann.ac.il/report/2025/215/)]\\
   Halley Goldberg, **Jinqiao Hu**, [Zhenjian Lu](https://luzhenjian.github.io/), Jinyi Lyu, [Igor C. Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/)
 
 

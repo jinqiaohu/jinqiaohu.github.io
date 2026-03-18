@@ -7,7 +7,7 @@ author_profile: true
 # Talks
 
 + **Meta-Complexity of Nondeterministic Kolmogorov Complexity**\\
-  Based on the preprint *Synergies Between Complexity Theory and Nondeterministic Kolmogorov Complexity*\\
+  Based on the preprint *Hardness of Nondeterministic Kolmogorov Complexity*\\
   In [*6th In-person Complexity Network Meeting*](https://sites.google.com/view/complexitynetwork/in-person-meetings/6th-complexity-meeting)\\
   University of Warwick, 16 June 2025
 
